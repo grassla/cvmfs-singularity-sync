@@ -125,6 +125,7 @@ econtal/numpy-mkl:latest
 efajardo/osgvo-nsides:latest
 efajardo/astroflow:latest
 grassla/osg_testing:latest
+huckb/clas6sim:latest
 jamessaxon/postgres-routing:latest
 jamessaxon/postgres-routing:a0
 jasoncpatton/qutip_kwant:v1.2
